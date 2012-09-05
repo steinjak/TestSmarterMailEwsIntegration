@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmarterMailEwsIntegration", "TestSmarterMailEwsIntegration\TestSmarterMailEwsIntegration.csproj", "{CAB52FDA-22D2-4768-BDAD-86462AB36C85}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text files", "Text files", "{CECEC3CE-7D02-4780-8A6A-95A7BC62B83E}"
+	ProjectSection(SolutionItems) = preProject
+		FiddlerTrace.txt = FiddlerTrace.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
